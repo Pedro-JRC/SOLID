@@ -1,5 +1,6 @@
 ﻿
-namespace PrinResUni_SRP
+namespace _1_PrinResUni_SRP
+
 {
     public class GestorFacturas
     {

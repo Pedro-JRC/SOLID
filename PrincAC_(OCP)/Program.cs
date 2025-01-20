@@ -1,4 +1,4 @@
-﻿namespace PrincAC__OCP_
+﻿namespace _2_PrincAC__OCP_
 {
     internal class Program
     {
